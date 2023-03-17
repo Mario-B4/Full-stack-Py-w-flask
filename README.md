@@ -7,6 +7,7 @@ Prerequisites: Python 3.9 (ensure Python is added to PATH) + Git Client
 
 Open GIT CMD >> navigate to working directory >>  download project files from GitHub directly
 
+git clone https://github.com/Mario-B4/Full-stack-Py-w-flask.git
 
 Open Windows Powershell >> navigate to new working directory (cloned repo folder)
 
