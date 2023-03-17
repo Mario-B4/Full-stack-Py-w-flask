@@ -14,4 +14,4 @@ Open Windows Powershell >> navigate to new working directory (cloned repo folder
 Run Project in Flask
 
 # Bug/Report
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here-href https://github.com/Mario-B4/Full-stack-Py-w-flask/issues by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here https://github.com/Mario-B4/Full-stack-Py-w-flask/issues by including your search query and the expected result.
