@@ -12,3 +12,6 @@ git clone https://github.com/Mario-B4/Full-stack-Py-w-flask.git
 Open Windows Powershell >> navigate to new working directory (cloned repo folder)
 
 Run Project in Flask
+
+# Bug/Report
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result.
